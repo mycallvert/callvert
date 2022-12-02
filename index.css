@@ -38,6 +38,8 @@ body {
     width: 500px;
     position: relative;
     left: 1px;
+    margin-left: 0;
+    padding: 20px;
   }
  
 }
@@ -186,6 +188,7 @@ body {
   margin-bottom: 40px;
   background-image: url(accessit.jpg);
   background-size: 1349px 500px;
+  overflow-x: hidden;
  
 }
 
